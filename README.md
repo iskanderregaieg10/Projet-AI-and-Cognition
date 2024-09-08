@@ -53,8 +53,6 @@ This academic project aims to develop a recommender system that assists users in
 - `Step_1_Data_pre-processing.ipynb`: Contains the code for data preprocessing and NLP.
 - `Step_2_Ontology.ipynb`: Code for building the ontology from the processed data.
 - `scriptweb.ipynb`: Code for the web application and recommendation engine.
-- `corpora/`: Contains the PMBOK and PMI data used for building the ontology.
 - `data/`: Contains the processed data and results.
-- `web_recommendation/`: Contains the code for the web interface.
 - `ontology_utils.py` and `utils.py`: Utility functions for ontology and data processing.
 
